@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+
+.frase{
+    padding: 20px;
+}
+
+.valor{
+    padding: 15px
+}
+
+
+
+
+.inputs{
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.botao{
+    background-color:orange;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+button :hover{
+    background-color: orangered;
+   
+
+}
+
+.resposta{
+    padding: 10px;
+
+}
+
+
+.mensagem{
+    color: green;
+    font-style: italic;
+
+}
